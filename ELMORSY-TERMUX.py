@@ -15,7 +15,7 @@ def menu():
                   \ ELMORSY/
                    \TERMUX/
                     \____/
-=======================================            welcom to termux elmorsy&T.M/AS7AB ELMGRA
+=======================================                          welcom to termux elmorsy&T.M/AS7AB ELMGRA
 =======================================
 WhatsApp:+201021597142
 =======================================
